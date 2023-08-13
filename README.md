@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Gulshan Sharma</h1>
 <h3 align="center">A passionate frontend developer from India India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
