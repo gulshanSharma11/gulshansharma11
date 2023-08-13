@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)].
 <h1 align="center">Hi 👋, I'm Gulshan Sharma</h1>
 <img align="right" alt="Coding" width="400" src="https://carlyberry.me/portrait-animated-gif">
 <h3 align="center">A passionate frontend developer from India India</h3>
