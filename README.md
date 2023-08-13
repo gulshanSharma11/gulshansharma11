@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Dulon18)
+![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
 <h1 align="center">Hi 👋, I'm Gulshan Sharma</h1>
 <h3 align="center">A passionate frontend developer from India India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
