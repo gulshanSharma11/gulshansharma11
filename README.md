@@ -1,4 +1,4 @@
-![Header](./github-header-image-name.png)
+![Header](/)
 <h1 align="center">Hi 👋, I'm Gulshan Sharma</h1>
 <h3 align="center">A passionate frontend developer from India India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -22,4 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulshansharma11&show_icons=true&locale=en" alt="gulshansharma11" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulshansharma11&" alt="gulshansharma11" /></p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
