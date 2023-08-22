@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSubhojeetDas1107&psig=AOvVaw1fIUKlbUwltXoWJhTxvZ-j&ust=1692799706272000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCP8bu48IADFQAAAAAdAAAAABAg)
 
 <h1 align="center">Hi 👋, I'm Gulshan Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
