@@ -1,5 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSubhojeetDas1107&psig=AOvVaw1fIUKlbUwltXoWJhTxvZ-j&ust=1692799706272000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCP8bu48IADFQAAAAAdAAAAABAg)
-
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Gulshan Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
