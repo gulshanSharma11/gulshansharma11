@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://gulshansharma11.github.io/Final-Portfolio-1/](https://gulshansharma11.github.io/Final-Portfolio-1/)
+- 👨‍💻 All of my projects are available at [https://gulshansharma11.github.io/Final-Portfolio-2/](https://gulshansharma11.github.io/Final-Portfolio-2/)
 
 - 💬 Ask me about **Web Development**
 
